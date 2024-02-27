@@ -1,0 +1,2 @@
+voucher_code,voucher_points
+testvoucher,1000
